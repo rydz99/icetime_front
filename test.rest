@@ -1,0 +1,25 @@
+GET http://mongodb+srv://szef:szef99@cluster0.f8ya0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority/ice
+###
+
+GET http://localhost:3000/ice/b=ben
+
+###
+
+
+
+GET http://localhost:3000/6150379a7b7ad9d8dd9fb47e
+
+###
+
+POST http://localhost:3000/ice
+Content-Type: application/json
+
+{
+    "brand" : "Breyers",
+    "flavour": "Salted Caramel Cake",
+    "description": "Lody o smaku solonego karmelu.",
+    "result": "4",
+    "review": "Ciężkie, agresywne(!) w smaku + nieprzyjemny posmak słodzików",
+    "image": "https://www.breyers.pl/sk-eu/content/dam/brands/breyers/specified_clusterscountries/1866878-8711327387294-01.png.rendition.767.767.png"
+
+}
