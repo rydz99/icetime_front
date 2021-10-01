@@ -1,5 +1,5 @@
-const base_url = 'https://protected-brushlands-34522.herokuapp.com/ice'
-const myrank_url = 'https://protected-brushlands-34522.herokuapp.com/ice/myrank'
+const base_url = 'https://cors-anywhere.herokuapp.com/https://protected-brushlands-34522.herokuapp.com/ice'
+const myrank_url = 'https://cors-anywhere.herokuapp.com/https://protected-brushlands-34522.herokuapp.com/ice/myrank'
 const submit = document.querySelector('.submit')
 const row = document.querySelector('.row')
 const searchBtn = document.querySelector('.search-btn')
