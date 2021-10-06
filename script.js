@@ -42,7 +42,7 @@ function displayIceModels(data) {
             <div class="progress">
                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="${styleBar}" aria-valuemin="0" aria-valuemax="100" style="width: ${styleBar}%"></div>
             </div>
-            <img src="${image}" class="card-img-top" alt="...">
+            <img src="${image}" class="card-img-top" alt="./img_placeholder.jpeg">
             <div class="card-body">
                 ${vegan}
                 <h2 class="card-title">${brand}  </h2>
